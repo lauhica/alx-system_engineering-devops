@@ -1,2 +1,2 @@
-#!/bin/bas
+#!/bin/bash
 chown -H vincent:staff_hello
